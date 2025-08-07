@@ -16,7 +16,7 @@ before:
 #    - templ generate
 
 builds:
-  - id: "tlsman"
+  - id: "nsdoc"
     binary: nsdoc
     main: ./cmd/nsdoc/main.go
     env:
