@@ -1,0 +1,2 @@
+# nsdoc
+NetScaler Documentation Tool
